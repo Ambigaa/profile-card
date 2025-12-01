@@ -1,4 +1,4 @@
-**Profile Card****
+**Profile Card**
 
 **Overview:**
 
@@ -10,6 +10,7 @@ This project was developed during my Internship at CyberDude Networks Private Li
 - CSS
 
 **Author:**
+
 Ambigaa 
 
 Profile Card - 2025
